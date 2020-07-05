@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.a9b7abbb.chunk.css",
+    "main.js": "/my-app/static/js/main.39e99d6b.chunk.js",
+    "main.js.map": "/my-app/static/js/main.39e99d6b.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.361f6157.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.361f6157.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/my-app/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.80273f11.chunk.js": "/my-app/static/js/2.80273f11.chunk.js",
+    "static/js/2.80273f11.chunk.js.map": "/my-app/static/js/2.80273f11.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.9bbd793e0b7de5cdee3e660917a60a02.js": "/my-app/precache-manifest.9bbd793e0b7de5cdee3e660917a60a02.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/my-app/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.a9b7abbb.chunk.css.map": "/my-app/static/css/main.a9b7abbb.chunk.css.map",
+    "static/media/index.scss": "/my-app/static/media/zw.98a0162e.svg",
+    "static/media/1.jpg": "/my-app/static/media/1.993668ff.jpg",
+    "static/media/4.jpg": "/my-app/static/media/4.030267c7.jpg",
+    "static/media/5.jpg": "/my-app/static/media/5.30e46659.jpg",
+    "static/media/6.jpg": "/my-app/static/media/6.5fdf4fab.jpg",
+    "static/media/7.jpg": "/my-app/static/media/7.792f1e91.jpg",
+    "static/media/8.jpg": "/my-app/static/media/8.6fe0071a.jpg",
+    "static/media/endless-logo.png": "/my-app/static/media/endless-logo.ee8631c3.png"
+  }
+}
